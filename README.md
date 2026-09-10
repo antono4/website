@@ -1,2 +1,33 @@
-Last updated: 2026-09-11 01:32:31 WIB
-Last updated: 2026-09-11 02:50:11 WIB
+# @reactjs-id/website
+
+Source code for https://reactjs.id/
+
+## 📋 Overview
+
+This repository contains **75 files** and is built with the following technologies:
+
+Node.js, JavaScript
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 🔧 Environment config included
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-11 03:04:43 WIB*
